@@ -69,3 +69,5 @@ h1{
     font-size: 12px;
     color: inherit;
     position: absolute;
+    bottom: 0;
+    left: 50%;
