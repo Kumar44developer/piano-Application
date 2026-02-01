@@ -42,3 +42,5 @@ h1{
 
 .white{
     --width:100px;
+    background: linear-gradient(to bottom, #ffffff,#f3f3f3);
+    border: 1px solid #333;
