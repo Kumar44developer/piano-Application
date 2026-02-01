@@ -8,3 +8,7 @@ body{
     background: linear-gradient(to bottom, #4f008a,#b149bb);
     min-height: 100vh;
 }
+
+h1{
+    text-align: center;
+    margin-top: 50px;
