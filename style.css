@@ -61,3 +61,5 @@ h1{
     margin-right: calc(var(--width) /-2);
     z-index: 2;
     border-radius: 0px 0px 8px 8px;
+    color: #fff;
+}
