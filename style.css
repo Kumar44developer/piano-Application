@@ -29,3 +29,7 @@ h1{
 .piano{
     display: flex;
 }
+
+
+.key{
+    height: calc(var(--width) * 4);
