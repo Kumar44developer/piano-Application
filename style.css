@@ -33,3 +33,4 @@ h1{
 
 .key{
     height: calc(var(--width) * 4);
+    width: var(--width);
