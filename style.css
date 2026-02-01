@@ -34,3 +34,4 @@ h1{
 .key{
     height: calc(var(--width) * 4);
     width: var(--width);
+    transition: background-color 0.2s ease;
