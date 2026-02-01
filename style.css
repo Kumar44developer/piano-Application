@@ -67,3 +67,5 @@ h1{
 
 .note-label{
     font-size: 12px;
+    color: inherit;
+    position: absolute;
