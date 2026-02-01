@@ -37,3 +37,8 @@ h1{
     transition: background-color 0.2s ease;
     position: relative; 
 }
+
+
+
+.white{
+    --width:100px;
