@@ -57,3 +57,5 @@ h1{
 .black{
     --width:60px;
     background: linear-gradient(to bottom, #000000,#333333);
+    margin-left: calc(var(--width) /-2);
+    margin-right: calc(var(--width) /-2);
