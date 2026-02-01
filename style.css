@@ -79,3 +79,5 @@ h1{
 }
 
 .key.active{
+    transform: translateY(4px);
+}
