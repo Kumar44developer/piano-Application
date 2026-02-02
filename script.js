@@ -9,3 +9,5 @@ keys.forEach(key => key.addEventListener("click",handleKeyClick));
 function handleKeyClick(){
     playKey(this);
 }
+
+function playKey(key){
