@@ -5,3 +5,5 @@ const whiteKeys = document.querySelectorAll(".key.white");
 const blackKeys = document.querySelectorAll(".key.black");
 
 keys.forEach(key => key.addEventListener("click",handleKeyClick));
+
+function handleKeyClick(){
