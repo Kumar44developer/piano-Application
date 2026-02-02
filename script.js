@@ -16,3 +16,5 @@ function playKey(key){
 
     keyAudio.currentTime = 0;
     keyAudio.play();
+
+    key.classList.add("active");
