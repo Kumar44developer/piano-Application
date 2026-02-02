@@ -11,3 +11,5 @@ function handleKeyClick(){
 }
 
 function playKey(key){
+
+    const keyAudio = document.getElementById(key.dataset.note); 
