@@ -20,3 +20,5 @@ function playKey(key){
     key.classList.add("active");
 
     keyAudio.addEventListener("ended",()=>{
+
+    key.classList.remove("active");
