@@ -15,3 +15,4 @@ function playKey(key){
     const keyAudio = document.getElementById(key.dataset.note); 
 
     keyAudio.currentTime = 0;
+    keyAudio.play();
